@@ -32,7 +32,7 @@
           ],
         "prettier/prettier": "error",
         "class-methods-use-this": "off",
-        "@typescript/camelcase": "off"
+        "camelcase": "off"
     },
     "settings": {
         "import/resolver": {
